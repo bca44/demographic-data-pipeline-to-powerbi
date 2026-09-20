@@ -1,0 +1,103 @@
+Synthetic portfolio dataset - no real persons or client data
+Record ID	Last, First	Date of Birth	Age	Sex	Location	Category List	Attribute List	Follow-Up Type	Ethnicity	Races	Language	Contact Method	Attr A	Attr B	Follow-Up Date	Office	Unnamed: 17
+R0001	Carter, Casey	13/05/1997	29	Female	Mesa, AZ		Attribute X	Routine	Unknown	Unknown	Other	Phone		Value B2	29/09/2026	Site A	
+R0002	Lee, Reese	28/05/1948	78	Female	Tempe, AZ	(C205) Category Beta	Attribute X	As Needed	Hispanic or Latino	American Indian or Alaska Native	Other	Email	Value A1	Value B1	18/03/2027	Site B	
+R0003	Kim, Jordan	11/07/1970	56	Female	Chandler, AZ	(C205) Category Beta;(C520) Category Epsilon		Consultation	Not Hispanic or Latino	Two or More Races	Vietnamese	Phone		Value B2	05/02/2027	Site A	
+R0004	Lee, Casey	16/12/1973	52	Nonbinary	Tempe, AZ		Attribute Y	Annual	Unknown	White	English	Text	Value A1	Value B2	11/10/2026	Site A	
+R0005	Kim, Taylor	22/01/1949	77	Male	Gilbert, AZ	(C310) Category Gamma;(C415) Category Delta;(C520) Category Epsilon	Attribute X	Consultation	Unknown	Unknown	English	Text		Value B1	04/02/2027	Site C	
+R0006	Martinez, Casey	17/12/1961	64	Nonbinary	Scottsdale, AZ	(C415) Category Delta	Attribute X	Consultation	Hispanic or Latino	Black or African American	English	Email	Value A2	Value B2	07/10/2026	Site A	
+R0007	Martinez, Parker	19/11/1990	35	Female	Gilbert, AZ	(C205) Category Beta;(C415) Category Delta	Attribute X	Annual	Unknown	Two or More Races	Other	Email			08/01/2027	Site C	
+R0008	Lee, Parker	31/10/1975	50	Female	Queen Creek, AZ	(C205) Category Beta;(C520) Category Epsilon		Routine	Hispanic or Latino	Unknown	Spanish	Text	Value A2		07/10/2026	Site B	
+R0009	Nguyen, Quinn	27/03/1974	52	Male	Queen Creek, AZ	(C415) Category Delta;(C310) Category Gamma;(C520) Category Epsilon;(C101) Category Alpha	Attribute Y	Routine	Not Hispanic or Latino	American Indian or Alaska Native	Spanish	Email	Value A1		27/11/2026	Site C	
+R0010	Nguyen, Casey	10/05/2008	18	Nonbinary	Tempe, AZ	(C520) Category Epsilon	Attribute X	Annual	Not Hispanic or Latino	Black or African American	Other	Text	Value A1		12/12/2026	Site B	
+R0011	Kim, Casey	30/09/1941	84	Female	Phoenix, AZ		Attribute X	Routine	Hispanic or Latino	Unknown	Mandarin	Phone		Value B1	23/10/2026	Site C	
+R0012	Garcia, Quinn	22/08/1982	44	Nonbinary	Scottsdale, AZ	(C205) Category Beta;(C310) Category Gamma;(C415) Category Delta;(C520) Category Epsilon	Attribute X	Consultation	Not Hispanic or Latino	Unknown	Vietnamese	Email		Value B2	21/10/2026	Site A	
+R0013	Kim, Avery	27/02/1960	66	Nonbinary	Tempe, AZ		Attribute X	Annual	Hispanic or Latino	White	English	Phone	Value A1	Value B1	14/12/2026	Site A	
+R0014	Brown, Morgan	15/02/1986	40	Nonbinary	Mesa, AZ	(C310) Category Gamma	Attribute X; Attribute Z	Annual	Not Hispanic or Latino	American Indian or Alaska Native	Spanish	Phone	Value A1		09/01/2027	Site B	
+R0015	Nguyen, Avery	31/12/1977	48	Male	Scottsdale, AZ	(C415) Category Delta;(C101) Category Alpha;(C310) Category Gamma	Attribute Y	Routine	Hispanic or Latino	Black or African American	Spanish	Text	Value A2	Value B1	07/01/2027	Site A	
+R0016	Lee, Jordan	27/12/1964	61	Female	Scottsdale, AZ	(C205) Category Beta;(C101) Category Alpha;(C520) Category Epsilon		Routine	Hispanic or Latino	Black or African American	Mandarin	Email	Value A2	Value B1	01/01/2027	Site A	
+R0017	Brown, Casey	08/10/1954	71	Male	Scottsdale, AZ	(C101) Category Alpha;(C415) Category Delta;(C205) Category Beta	Attribute X; Attribute Z	Annual	Hispanic or Latino	Asian	Spanish	Phone			06/02/2027	Site A	
+R0018	Wilson, Parker	07/02/2007	19	Nonbinary	Queen Creek, AZ	(C101) Category Alpha;(C520) Category Epsilon	Attribute X	Routine	Unknown	White	Spanish	Phone		Value B1	12/03/2027	Site A	
+R0019	Wilson, Morgan	22/03/1976	50	Nonbinary	Tempe, AZ			Routine	Not Hispanic or Latino	Unknown	Other	Text		Value B2	26/11/2026	Site A	
+R0020	Martinez, Taylor	31/01/2000	26	Nonbinary	Scottsdale, AZ	(C205) Category Beta;(C310) Category Gamma	Attribute Y	As Needed	Not Hispanic or Latino	White	English	Email			16/10/2026	Site A	
+R0021	Johnson, Taylor	26/03/1988	38	Male	Phoenix, AZ	(C520) Category Epsilon	Attribute X	Consultation	Not Hispanic or Latino	Black or African American	Mandarin	Text		Value B2	24/02/2027	Site C	
+R0022	Lee, Casey	15/06/1987	39	Nonbinary	Phoenix, AZ		Attribute X	Consultation	Hispanic or Latino	White	Other	Phone	Value A2	Value B2	22/02/2027	Site A	
+R0023	Lee, Parker	18/05/2004	22	Male	Queen Creek, AZ	(C205) Category Beta;(C310) Category Gamma		Routine	Unknown	American Indian or Alaska Native	Vietnamese	Phone	Value A1	Value B2	24/10/2026	Site C	
+R0024	Lee, Cameron	02/07/1963	63	Nonbinary	Phoenix, AZ	(C415) Category Delta		Routine	Unknown	Black or African American	Other	Phone	Value A2		09/02/2027	Site A	
+R0025	Johnson, Riley	23/07/1978	48	Female	Gilbert, AZ	(C101) Category Alpha	Attribute X	Annual	Unknown	White	Vietnamese	Text	Value A2		30/10/2026	Site A	
+R0026	Carter, Taylor	30/07/1954	72	Nonbinary	Gilbert, AZ	(C415) Category Delta	Attribute X; Attribute Z	Annual	Not Hispanic or Latino	Black or African American	English	Email	Value A1	Value B2	16/11/2026	Site A	
+R0027	Garcia, Avery	18/04/1981	45	Nonbinary	Mesa, AZ	(C310) Category Gamma;(C205) Category Beta	Attribute X; Attribute Z	Consultation	Not Hispanic or Latino	White	Vietnamese	Email			01/01/2027	Site C	
+R0028	Johnson, Taylor	08/02/1988	38	Nonbinary	Gilbert, AZ	(C101) Category Alpha;(C520) Category Epsilon		Routine	Unknown	American Indian or Alaska Native	Vietnamese	Text	Value A2	Value B2	23/02/2027	Site C	
+R0029	Carter, Cameron	17/05/1950	76	Female	Tempe, AZ	(C520) Category Epsilon;(C205) Category Beta;(C415) Category Delta	Attribute X	Consultation	Not Hispanic or Latino	White	Vietnamese	Text	Value A2		22/10/2026	Site C	
+R0030	Johnson, Quinn	10/12/1966	59	Female	Mesa, AZ	(C310) Category Gamma;(C415) Category Delta;(C205) Category Beta;(C520) Category Epsilon	Attribute X; Attribute Z	As Needed	Unknown	Unknown	Spanish	Text		Value B2	02/01/2027	Site C	
+R0031	Martinez, Reese	14/01/1940	86	Nonbinary	Scottsdale, AZ	(C310) Category Gamma;(C205) Category Beta	Attribute Y	As Needed	Not Hispanic or Latino	American Indian or Alaska Native	Spanish	Text	Value A2		03/11/2026	Site C	
+R0032	Nguyen, Morgan	10/08/1947	79	Nonbinary	Gilbert, AZ	(C520) Category Epsilon;(C310) Category Gamma	Attribute X	Annual	Hispanic or Latino	White	English	Phone	Value A2		09/10/2026	Site B	
+R0033	Garcia, Taylor	07/03/1977	49	Nonbinary	Scottsdale, AZ	(C205) Category Beta;(C415) Category Delta;(C520) Category Epsilon;(C310) Category Gamma		Routine	Not Hispanic or Latino	Black or African American	Spanish	Text		Value B2	03/10/2026	Site C	
+R0034	Brown, Taylor	10/05/1962	64	Male	Scottsdale, AZ		Attribute Y	As Needed	Unknown	Unknown	Other	Email		Value B2	31/10/2026	Site C	
+R0035	Johnson, Quinn	02/08/1982	44	Male	Scottsdale, AZ	(C310) Category Gamma;(C205) Category Beta;(C520) Category Epsilon	Attribute X	Consultation	Not Hispanic or Latino	White	Vietnamese	Phone	Value A2	Value B2	11/12/2026	Site C	
+R0036	Garcia, Cameron	25/03/1947	79	Nonbinary	Mesa, AZ	(C205) Category Beta	Attribute X	Routine	Not Hispanic or Latino	American Indian or Alaska Native	Vietnamese	Text	Value A2	Value B2	06/10/2026	Site A	
+R0037	Martinez, Parker	10/09/1977	49	Female	Gilbert, AZ	(C520) Category Epsilon;(C101) Category Alpha;(C310) Category Gamma	Attribute Y	As Needed	Not Hispanic or Latino	Two or More Races	Other	Text	Value A1	Value B2	16/11/2026	Site B	
+R0038	Martinez, Taylor	06/02/1979	47	Male	Mesa, AZ	(C101) Category Alpha;(C415) Category Delta;(C205) Category Beta		As Needed	Unknown	Two or More Races	English	Phone		Value B2	25/10/2026	Site B	
+R0039	Johnson, Cameron	20/04/1956	70	Male	Mesa, AZ		Attribute X; Attribute Z	Consultation	Not Hispanic or Latino	American Indian or Alaska Native	Vietnamese	Email	Value A2	Value B1	19/01/2027	Site A	
+R0040	Carter, Avery	14/03/2007	19	Female	Mesa, AZ	(C101) Category Alpha;(C310) Category Gamma;(C520) Category Epsilon;(C415) Category Delta		Annual	Hispanic or Latino	Black or African American	Mandarin	Text	Value A1		15/11/2026	Site B	
+R0041	Wilson, Reese	02/10/2002	23	Nonbinary	Scottsdale, AZ	(C310) Category Gamma;(C205) Category Beta		Annual	Not Hispanic or Latino	White	Other	Phone	Value A2		13/03/2027	Site B	
+R0042	Wilson, Morgan	02/08/1975	51	Female	Scottsdale, AZ	(C101) Category Alpha	Attribute Y	Routine	Unknown	White	Vietnamese	Text	Value A2		24/12/2026	Site A	
+R0043	Brown, Jordan	23/05/1985	41	Male	Gilbert, AZ	(C101) Category Alpha;(C415) Category Delta	Attribute X; Attribute Z	Annual	Not Hispanic or Latino	Black or African American	Other	Text	Value A2		05/02/2027	Site B	
+R0044	Garcia, Jordan	14/09/1981	45	Male	Chandler, AZ	(C520) Category Epsilon;(C310) Category Gamma;(C205) Category Beta	Attribute X	As Needed	Unknown	Two or More Races	Mandarin	Email	Value A1	Value B2	13/12/2026	Site A	
+R0045	Johnson, Riley	28/09/1983	42	Male	Tempe, AZ	(C310) Category Gamma	Attribute Y	Routine	Unknown	Black or African American	English	Phone		Value B2	24/01/2027	Site C	
+R0046	Brown, Parker	07/01/2008	18	Female	Phoenix, AZ	(C415) Category Delta	Attribute Y	Annual	Not Hispanic or Latino	Unknown	Spanish	Email			24/12/2026	Site B	
+R0047	Kim, Parker	27/08/1989	37	Male	Gilbert, AZ	(C310) Category Gamma;(C415) Category Delta;(C520) Category Epsilon;(C205) Category Beta	Attribute Y	Annual	Hispanic or Latino	Unknown	Spanish	Email	Value A1		05/02/2027	Site C	
+R0048	Brown, Casey	10/08/1956	70	Nonbinary	Tempe, AZ	(C205) Category Beta	Attribute Y	Routine	Hispanic or Latino	Asian	Spanish	Email	Value A1	Value B2	24/09/2026	Site C	
+R0049	Carter, Avery	02/12/1987	38	Nonbinary	Gilbert, AZ	(C310) Category Gamma	Attribute X	As Needed	Hispanic or Latino	White	Other	Email	Value A2	Value B2	11/01/2027	Site B	
+R0050	Johnson, Parker	16/07/1956	70	Female	Queen Creek, AZ			As Needed	Not Hispanic or Latino	White	Other	Text		Value B1	29/10/2026	Site A	
+R0051	Nguyen, Quinn	30/06/1990	36	Male	Tempe, AZ	(C101) Category Alpha;(C205) Category Beta	Attribute X	As Needed	Not Hispanic or Latino	American Indian or Alaska Native	Vietnamese	Text	Value A2	Value B2	13/02/2027	Site C	
+R0052	Johnson, Jordan	27/05/1945	81	Female	Mesa, AZ	(C101) Category Alpha;(C205) Category Beta;(C310) Category Gamma;(C520) Category Epsilon	Attribute X	Routine	Hispanic or Latino	White	Mandarin	Email			19/01/2027	Site B	
+R0053	Johnson, Parker	05/12/1942	83	Female	Scottsdale, AZ	(C310) Category Gamma	Attribute X	Consultation	Unknown	Two or More Races	Spanish	Email	Value A1		17/11/2026	Site C	
+R0054	Carter, Taylor	14/05/1953	73	Male	Tempe, AZ	(C205) Category Beta;(C101) Category Alpha	Attribute Y	As Needed	Hispanic or Latino	American Indian or Alaska Native	Vietnamese	Text	Value A2	Value B2	27/01/2027	Site C	
+R0055	Kim, Reese	19/04/1984	42	Male	Phoenix, AZ	(C101) Category Alpha;(C520) Category Epsilon;(C205) Category Beta		Annual	Unknown	Two or More Races	Other	Phone		Value B2	15/02/2027	Site A	
+R0056	Lee, Parker	17/06/2008	18	Male	Mesa, AZ	(C415) Category Delta	Attribute X; Attribute Z	As Needed	Hispanic or Latino	American Indian or Alaska Native	Vietnamese	Email	Value A2	Value B2	11/03/2027	Site A	
+R0057	Johnson, Cameron	05/06/1954	72	Nonbinary	Phoenix, AZ	(C415) Category Delta;(C520) Category Epsilon	Attribute X; Attribute Z	Routine	Not Hispanic or Latino	Asian	Vietnamese	Phone	Value A2		21/09/2026	Site C	
+R0058	Lee, Riley	04/09/1988	38	Nonbinary	Queen Creek, AZ	(C415) Category Delta;(C101) Category Alpha;(C520) Category Epsilon	Attribute X; Attribute Z	As Needed	Hispanic or Latino	Black or African American	Vietnamese	Text	Value A1	Value B2	11/01/2027	Site C	
+R0059	Carter, Reese	27/06/1983	43	Female	Scottsdale, AZ		Attribute X	Consultation	Unknown	White	Other	Email	Value A1	Value B1	20/10/2026	Site B	
+R0060	Johnson, Quinn	16/07/1950	76	Nonbinary	Gilbert, AZ	(C415) Category Delta	Attribute X; Attribute Z	As Needed	Not Hispanic or Latino	Black or African American	Mandarin	Text	Value A1	Value B2	08/11/2026	Site C	
+R0061	Johnson, Cameron	06/08/1985	41	Male	Queen Creek, AZ	(C101) Category Alpha	Attribute Y	Routine	Not Hispanic or Latino	Unknown	Vietnamese	Text			24/01/2027	Site A	
+R0062	Brown, Riley	23/01/1980	46	Female	Scottsdale, AZ	(C415) Category Delta;(C310) Category Gamma;(C205) Category Beta;(C520) Category Epsilon	Attribute X	As Needed	Hispanic or Latino	American Indian or Alaska Native	English	Email		Value B2	27/12/2026	Site B	
+R0063	Carter, Taylor	17/07/1999	27	Nonbinary	Tempe, AZ	(C415) Category Delta	Attribute Y	Routine	Not Hispanic or Latino	White	Other	Email	Value A1		27/10/2026	Site B	
+R0064	Brown, Casey	28/09/1998	27	Male	Tempe, AZ	(C101) Category Alpha	Attribute X; Attribute Z	Routine	Not Hispanic or Latino	Unknown	Other	Email	Value A2		23/01/2027	Site C	
+R0065	Garcia, Jordan	22/03/1943	83	Male	Phoenix, AZ	(C101) Category Alpha;(C205) Category Beta;(C310) Category Gamma;(C415) Category Delta		As Needed	Hispanic or Latino	Unknown	Vietnamese	Phone	Value A1	Value B2	05/10/2026	Site B	
+R0066	Garcia, Quinn	28/02/1972	54	Male	Tempe, AZ	(C415) Category Delta;(C205) Category Beta	Attribute X	Annual	Hispanic or Latino	White	Other	Email			21/11/2026	Site B	
+R0067	Brown, Casey	25/04/1992	34	Male	Gilbert, AZ	(C205) Category Beta		As Needed	Not Hispanic or Latino	Unknown	Other	Phone	Value A1	Value B2	18/12/2026	Site C	
+R0068	Garcia, Cameron	02/11/1966	59	Male	Phoenix, AZ	(C310) Category Gamma;(C415) Category Delta;(C205) Category Beta	Attribute X	As Needed	Unknown	Asian	Other	Email		Value B2	26/09/2026	Site C	
+R0069	Wilson, Parker	05/07/1975	51	Male	Queen Creek, AZ	(C101) Category Alpha;(C520) Category Epsilon	Attribute X	Consultation	Hispanic or Latino	Unknown	Spanish	Text	Value A2		08/03/2027	Site C	
+R0070	Carter, Casey	08/04/1952	74	Male	Phoenix, AZ		Attribute Y	Annual	Hispanic or Latino	Asian	Vietnamese	Text	Value A2	Value B1	11/11/2026	Site A	
+R0071	Patel, Casey	23/05/1988	38	Male	Queen Creek, AZ	(C520) Category Epsilon;(C310) Category Gamma	Attribute Y	Consultation	Hispanic or Latino	American Indian or Alaska Native	English	Phone	Value A1		12/03/2027	Site B	
+R0072	Carter, Casey	31/12/1989	36	Nonbinary	Phoenix, AZ	(C101) Category Alpha;(C415) Category Delta	Attribute X; Attribute Z	Consultation	Unknown	Unknown	Vietnamese	Text	Value A2		25/12/2026	Site A	
+R0073	Carter, Reese	17/07/2000	26	Nonbinary	Gilbert, AZ	(C415) Category Delta	Attribute X	Routine	Unknown	American Indian or Alaska Native	Vietnamese	Text	Value A2	Value B1	26/10/2026	Site A	
+R0074	Nguyen, Morgan	04/05/1943	83	Nonbinary	Mesa, AZ	(C415) Category Delta;(C101) Category Alpha	Attribute X; Attribute Z	As Needed	Not Hispanic or Latino	Unknown	Other	Email			30/10/2026	Site B	
+R0075	Brown, Reese	03/10/1998	27	Male	Gilbert, AZ			Consultation	Hispanic or Latino	American Indian or Alaska Native	Mandarin	Phone	Value A2	Value B1	15/03/2027	Site B	
+R0076	Johnson, Morgan	05/11/1988	37	Female	Queen Creek, AZ	(C101) Category Alpha;(C415) Category Delta	Attribute X; Attribute Z	Routine	Unknown	Black or African American	Other	Phone	Value A1	Value B2	22/11/2026	Site A	
+R0077	Lee, Morgan	26/08/1990	36	Nonbinary	Mesa, AZ	(C101) Category Alpha	Attribute X	Consultation	Hispanic or Latino	Two or More Races	English	Email	Value A1	Value B1	06/02/2027	Site B	
+R0078	Carter, Taylor	27/08/1955	71	Female	Gilbert, AZ		Attribute X	Consultation	Hispanic or Latino	Black or African American	Vietnamese	Phone	Value A1		06/01/2027	Site C	
+R0079	Brown, Parker	13/03/1950	76	Male	Tempe, AZ			As Needed	Unknown	Black or African American	Other	Phone			01/02/2027	Site B	
+R0080	Carter, Parker	03/02/1981	45	Male	Chandler, AZ			As Needed	Unknown	American Indian or Alaska Native	English	Phone	Value A2		28/10/2026	Site A	
+R0081	Martinez, Reese	28/04/1951	75	Nonbinary	Gilbert, AZ	(C520) Category Epsilon;(C310) Category Gamma	Attribute X; Attribute Z	As Needed	Hispanic or Latino	Unknown	English	Text			15/11/2026	Site B	
+R0082	Kim, Parker	05/07/1980	46	Male	Chandler, AZ	(C415) Category Delta		Consultation	Not Hispanic or Latino	Asian	Vietnamese	Email	Value A1		20/01/2027	Site A	
+R0083	Nguyen, Cameron	08/03/1948	78	Female	Scottsdale, AZ		Attribute Y	Annual	Unknown	White	Other	Text		Value B2	11/03/2027	Site A	
+R0084	Johnson, Reese	08/11/1976	49	Male	Gilbert, AZ	(C415) Category Delta;(C101) Category Alpha		Annual	Hispanic or Latino	Unknown	Mandarin	Phone	Value A1	Value B2	10/02/2027	Site B	
+R0085	Martinez, Quinn	22/04/1950	76	Nonbinary	Tempe, AZ	(C520) Category Epsilon;(C205) Category Beta		Consultation	Hispanic or Latino	Black or African American	Vietnamese	Text	Value A2	Value B2	19/12/2026	Site A	
+R0086	Martinez, Jordan	10/04/1956	70	Female	Scottsdale, AZ	(C520) Category Epsilon		Routine	Unknown	Two or More Races	Spanish	Email	Value A2	Value B2	17/12/2026	Site A	
+R0087	Carter, Taylor	13/03/1973	53	Female	Queen Creek, AZ	(C310) Category Gamma;(C101) Category Alpha		Routine	Not Hispanic or Latino	American Indian or Alaska Native	Mandarin	Email		Value B2	05/01/2027	Site B	
+R0088	Johnson, Reese	04/05/1959	67	Male	Tempe, AZ	(C101) Category Alpha;(C310) Category Gamma;(C205) Category Beta;(C520) Category Epsilon	Attribute Y	Routine	Hispanic or Latino	American Indian or Alaska Native	Other	Phone	Value A1	Value B1	07/12/2026	Site A	
+R0089	Johnson, Riley	03/11/2008	17	Female	Phoenix, AZ	(C310) Category Gamma	Attribute X; Attribute Z	As Needed	Hispanic or Latino	Black or African American	Mandarin	Text		Value B1	27/01/2027	Site C	
+R0090	Carter, Cameron	07/12/1999	26	Female	Chandler, AZ	(C101) Category Alpha;(C415) Category Delta		Consultation	Unknown	American Indian or Alaska Native	Other	Email			05/01/2027	Site B	
+R0091	Wilson, Parker	02/05/1950	76	Nonbinary	Gilbert, AZ	(C101) Category Alpha;(C310) Category Gamma;(C520) Category Epsilon		As Needed	Hispanic or Latino	Black or African American	Mandarin	Text	Value A2		11/10/2026	Site B	
+R0092	Patel, Jordan	02/11/1967	58	Nonbinary	Scottsdale, AZ	(C205) Category Beta;(C310) Category Gamma		Annual	Not Hispanic or Latino	Asian	Spanish	Phone	Value A1	Value B1	25/11/2026	Site A	
+R0093	Brown, Reese	26/07/1955	71	Nonbinary	Chandler, AZ	(C205) Category Beta;(C101) Category Alpha;(C415) Category Delta;(C520) Category Epsilon	Attribute Y	Consultation	Hispanic or Latino	American Indian or Alaska Native	English	Email	Value A2		07/12/2026	Site B	
+R0094	Kim, Quinn	21/01/1993	33	Female	Gilbert, AZ		Attribute X; Attribute Z	As Needed	Hispanic or Latino	White	Vietnamese	Email	Value A1		14/10/2026	Site C	
+R0095	Brown, Reese	18/04/1993	33	Nonbinary	Mesa, AZ	(C415) Category Delta;(C520) Category Epsilon;(C310) Category Gamma;(C101) Category Alpha	Attribute Y	As Needed	Unknown	Black or African American	English	Email	Value A1	Value B2	12/10/2026	Site C	
+R0096	Garcia, Parker	19/12/1997	28	Male	Tempe, AZ	(C101) Category Alpha	Attribute X	Consultation	Not Hispanic or Latino	Asian	Mandarin	Email	Value A2		21/02/2027	Site A	
+R0097	Nguyen, Quinn	06/08/1996	30	Nonbinary	Chandler, AZ	(C101) Category Alpha;(C310) Category Gamma	Attribute Y	Consultation	Unknown	Unknown	Other	Phone	Value A2	Value B1	17/02/2027	Site C	
+R0098	Patel, Reese	08/09/1952	74	Nonbinary	Phoenix, AZ	(C310) Category Gamma;(C415) Category Delta	Attribute Y	As Needed	Unknown	Asian	Spanish	Text			15/03/2027	Site C	
+R0099	Kim, Casey	20/05/1948	78	Female	Mesa, AZ	(C520) Category Epsilon;(C310) Category Gamma;(C101) Category Alpha	Attribute Y	As Needed	Hispanic or Latino	Black or African American	Spanish	Phone	Value A1	Value B2	16/10/2026	Site C	
+R0100	Wilson, Cameron	04/06/1988	38	Female	Mesa, AZ	(C101) Category Alpha;(C310) Category Gamma;(C415) Category Delta;(C520) Category Epsilon	Attribute X	Annual	Unknown	American Indian or Alaska Native	English	Email	Value A2		20/11/2026	Site B	
+END OF SYNTHETIC REPORT

@@ -1,0 +1,19 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# PyInstaller
+build/
+dist/
+*.spec
+*.exe
+app/
+dist/
+output/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

@@ -1,0 +1,101 @@
+Record ID,First Name,Last Name,Date of Birth,Age,Age Range,Sex,Location,# of categories,Category List,Attribute List,Follow-Up Type,Ethnicity,Race,Language,Contact Method
+R0001,Casey,Carter,13/05/1997,29,18-29,Female,"Mesa, AZ",0,,Attribute X,Routine,Unknown,Unknown,Other,Phone
+R0002,Reese,Lee,28/05/1948,78,70-79,Female,"Tempe, AZ",1,['C205'],Attribute X,As Needed,Hispanic or Latino,American Indian or Alaska Native,Other,Email
+R0003,Jordan,Kim,11/07/1970,56,50-59,Female,"Chandler, AZ",2,"['C205', 'C520']",,Consultation,Not Hispanic or Latino,Two or More Races,Vietnamese,Phone
+R0004,Casey,Lee,16/12/1973,52,50-59,Nonbinary,"Tempe, AZ",0,,Attribute Y,Annual,Unknown,White,English,Text
+R0005,Taylor,Kim,22/01/1949,77,70-79,Male,"Gilbert, AZ",3,"['C310', 'C415', 'C520']",Attribute X,Consultation,Unknown,Unknown,English,Text
+R0006,Casey,Martinez,17/12/1961,64,60-69,Nonbinary,"Scottsdale, AZ",1,['C415'],Attribute X,Consultation,Hispanic or Latino,Black or African American,English,Email
+R0007,Parker,Martinez,19/11/1990,35,30-39,Female,"Gilbert, AZ",2,"['C205', 'C415']",Attribute X,Annual,Unknown,Two or More Races,Other,Email
+R0008,Parker,Lee,31/10/1975,50,50-59,Female,"Queen Creek, AZ",2,"['C205', 'C520']",,Routine,Hispanic or Latino,Unknown,Spanish,Text
+R0009,Quinn,Nguyen,27/03/1974,52,50-59,Male,"Queen Creek, AZ",4,"['C415', 'C310', 'C520', 'C101']",Attribute Y,Routine,Not Hispanic or Latino,American Indian or Alaska Native,Spanish,Email
+R0010,Casey,Nguyen,10/05/2008,18,18-29,Nonbinary,"Tempe, AZ",1,['C520'],Attribute X,Annual,Not Hispanic or Latino,Black or African American,Other,Text
+R0011,Casey,Kim,30/09/1941,84,80+,Female,"Phoenix, AZ",0,,Attribute X,Routine,Hispanic or Latino,Unknown,Mandarin,Phone
+R0012,Quinn,Garcia,22/08/1982,44,40-49,Nonbinary,"Scottsdale, AZ",4,"['C205', 'C310', 'C415', 'C520']",Attribute X,Consultation,Not Hispanic or Latino,Unknown,Vietnamese,Email
+R0013,Avery,Kim,27/02/1960,66,60-69,Nonbinary,"Tempe, AZ",0,,Attribute X,Annual,Hispanic or Latino,White,English,Phone
+R0014,Morgan,Brown,15/02/1986,40,40-49,Nonbinary,"Mesa, AZ",1,['C310'],Attribute X; Attribute Z,Annual,Not Hispanic or Latino,American Indian or Alaska Native,Spanish,Phone
+R0015,Avery,Nguyen,31/12/1977,48,40-49,Male,"Scottsdale, AZ",3,"['C415', 'C101', 'C310']",Attribute Y,Routine,Hispanic or Latino,Black or African American,Spanish,Text
+R0016,Jordan,Lee,27/12/1964,61,60-69,Female,"Scottsdale, AZ",3,"['C205', 'C101', 'C520']",,Routine,Hispanic or Latino,Black or African American,Mandarin,Email
+R0017,Casey,Brown,08/10/1954,71,70-79,Male,"Scottsdale, AZ",3,"['C101', 'C415', 'C205']",Attribute X; Attribute Z,Annual,Hispanic or Latino,Asian,Spanish,Phone
+R0018,Parker,Wilson,07/02/2007,19,18-29,Nonbinary,"Queen Creek, AZ",2,"['C101', 'C520']",Attribute X,Routine,Unknown,White,Spanish,Phone
+R0019,Morgan,Wilson,22/03/1976,50,50-59,Nonbinary,"Tempe, AZ",0,,,Routine,Not Hispanic or Latino,Unknown,Other,Text
+R0020,Taylor,Martinez,31/01/2000,26,18-29,Nonbinary,"Scottsdale, AZ",2,"['C205', 'C310']",Attribute Y,As Needed,Not Hispanic or Latino,White,English,Email
+R0021,Taylor,Johnson,26/03/1988,38,30-39,Male,"Phoenix, AZ",1,['C520'],Attribute X,Consultation,Not Hispanic or Latino,Black or African American,Mandarin,Text
+R0022,Casey,Lee,15/06/1987,39,30-39,Nonbinary,"Phoenix, AZ",0,,Attribute X,Consultation,Hispanic or Latino,White,Other,Phone
+R0023,Parker,Lee,18/05/2004,22,18-29,Male,"Queen Creek, AZ",2,"['C205', 'C310']",,Routine,Unknown,American Indian or Alaska Native,Vietnamese,Phone
+R0024,Cameron,Lee,02/07/1963,63,60-69,Nonbinary,"Phoenix, AZ",1,['C415'],,Routine,Unknown,Black or African American,Other,Phone
+R0025,Riley,Johnson,23/07/1978,48,40-49,Female,"Gilbert, AZ",1,['C101'],Attribute X,Annual,Unknown,White,Vietnamese,Text
+R0026,Taylor,Carter,30/07/1954,72,70-79,Nonbinary,"Gilbert, AZ",1,['C415'],Attribute X; Attribute Z,Annual,Not Hispanic or Latino,Black or African American,English,Email
+R0027,Avery,Garcia,18/04/1981,45,40-49,Nonbinary,"Mesa, AZ",2,"['C310', 'C205']",Attribute X; Attribute Z,Consultation,Not Hispanic or Latino,White,Vietnamese,Email
+R0028,Taylor,Johnson,08/02/1988,38,30-39,Nonbinary,"Gilbert, AZ",2,"['C101', 'C520']",,Routine,Unknown,American Indian or Alaska Native,Vietnamese,Text
+R0029,Cameron,Carter,17/05/1950,76,70-79,Female,"Tempe, AZ",3,"['C520', 'C205', 'C415']",Attribute X,Consultation,Not Hispanic or Latino,White,Vietnamese,Text
+R0030,Quinn,Johnson,10/12/1966,59,50-59,Female,"Mesa, AZ",4,"['C310', 'C415', 'C205', 'C520']",Attribute X; Attribute Z,As Needed,Unknown,Unknown,Spanish,Text
+R0031,Reese,Martinez,14/01/1940,86,80+,Nonbinary,"Scottsdale, AZ",2,"['C310', 'C205']",Attribute Y,As Needed,Not Hispanic or Latino,American Indian or Alaska Native,Spanish,Text
+R0032,Morgan,Nguyen,10/08/1947,79,70-79,Nonbinary,"Gilbert, AZ",2,"['C520', 'C310']",Attribute X,Annual,Hispanic or Latino,White,English,Phone
+R0033,Taylor,Garcia,07/03/1977,49,40-49,Nonbinary,"Scottsdale, AZ",4,"['C205', 'C415', 'C520', 'C310']",,Routine,Not Hispanic or Latino,Black or African American,Spanish,Text
+R0034,Taylor,Brown,10/05/1962,64,60-69,Male,"Scottsdale, AZ",0,,Attribute Y,As Needed,Unknown,Unknown,Other,Email
+R0035,Quinn,Johnson,02/08/1982,44,40-49,Male,"Scottsdale, AZ",3,"['C310', 'C205', 'C520']",Attribute X,Consultation,Not Hispanic or Latino,White,Vietnamese,Phone
+R0036,Cameron,Garcia,25/03/1947,79,70-79,Nonbinary,"Mesa, AZ",1,['C205'],Attribute X,Routine,Not Hispanic or Latino,American Indian or Alaska Native,Vietnamese,Text
+R0037,Parker,Martinez,10/09/1977,49,40-49,Female,"Gilbert, AZ",3,"['C520', 'C101', 'C310']",Attribute Y,As Needed,Not Hispanic or Latino,Two or More Races,Other,Text
+R0038,Taylor,Martinez,06/02/1979,47,40-49,Male,"Mesa, AZ",3,"['C101', 'C415', 'C205']",,As Needed,Unknown,Two or More Races,English,Phone
+R0039,Cameron,Johnson,20/04/1956,70,70-79,Male,"Mesa, AZ",0,,Attribute X; Attribute Z,Consultation,Not Hispanic or Latino,American Indian or Alaska Native,Vietnamese,Email
+R0040,Avery,Carter,14/03/2007,19,18-29,Female,"Mesa, AZ",4,"['C101', 'C310', 'C520', 'C415']",,Annual,Hispanic or Latino,Black or African American,Mandarin,Text
+R0041,Reese,Wilson,02/10/2002,23,18-29,Nonbinary,"Scottsdale, AZ",2,"['C310', 'C205']",,Annual,Not Hispanic or Latino,White,Other,Phone
+R0042,Morgan,Wilson,02/08/1975,51,50-59,Female,"Scottsdale, AZ",1,['C101'],Attribute Y,Routine,Unknown,White,Vietnamese,Text
+R0043,Jordan,Brown,23/05/1985,41,40-49,Male,"Gilbert, AZ",2,"['C101', 'C415']",Attribute X; Attribute Z,Annual,Not Hispanic or Latino,Black or African American,Other,Text
+R0044,Jordan,Garcia,14/09/1981,45,40-49,Male,"Chandler, AZ",3,"['C520', 'C310', 'C205']",Attribute X,As Needed,Unknown,Two or More Races,Mandarin,Email
+R0045,Riley,Johnson,28/09/1983,42,40-49,Male,"Tempe, AZ",1,['C310'],Attribute Y,Routine,Unknown,Black or African American,English,Phone
+R0046,Parker,Brown,07/01/2008,18,18-29,Female,"Phoenix, AZ",1,['C415'],Attribute Y,Annual,Not Hispanic or Latino,Unknown,Spanish,Email
+R0047,Parker,Kim,27/08/1989,37,30-39,Male,"Gilbert, AZ",4,"['C310', 'C415', 'C520', 'C205']",Attribute Y,Annual,Hispanic or Latino,Unknown,Spanish,Email
+R0048,Casey,Brown,10/08/1956,70,70-79,Nonbinary,"Tempe, AZ",1,['C205'],Attribute Y,Routine,Hispanic or Latino,Asian,Spanish,Email
+R0049,Avery,Carter,02/12/1987,38,30-39,Nonbinary,"Gilbert, AZ",1,['C310'],Attribute X,As Needed,Hispanic or Latino,White,Other,Email
+R0050,Parker,Johnson,16/07/1956,70,70-79,Female,"Queen Creek, AZ",0,,,As Needed,Not Hispanic or Latino,White,Other,Text
+R0051,Quinn,Nguyen,30/06/1990,36,30-39,Male,"Tempe, AZ",2,"['C101', 'C205']",Attribute X,As Needed,Not Hispanic or Latino,American Indian or Alaska Native,Vietnamese,Text
+R0052,Jordan,Johnson,27/05/1945,81,80+,Female,"Mesa, AZ",4,"['C101', 'C205', 'C310', 'C520']",Attribute X,Routine,Hispanic or Latino,White,Mandarin,Email
+R0053,Parker,Johnson,05/12/1942,83,80+,Female,"Scottsdale, AZ",1,['C310'],Attribute X,Consultation,Unknown,Two or More Races,Spanish,Email
+R0054,Taylor,Carter,14/05/1953,73,70-79,Male,"Tempe, AZ",2,"['C205', 'C101']",Attribute Y,As Needed,Hispanic or Latino,American Indian or Alaska Native,Vietnamese,Text
+R0055,Reese,Kim,19/04/1984,42,40-49,Male,"Phoenix, AZ",3,"['C101', 'C520', 'C205']",,Annual,Unknown,Two or More Races,Other,Phone
+R0056,Parker,Lee,17/06/2008,18,18-29,Male,"Mesa, AZ",1,['C415'],Attribute X; Attribute Z,As Needed,Hispanic or Latino,American Indian or Alaska Native,Vietnamese,Email
+R0057,Cameron,Johnson,05/06/1954,72,70-79,Nonbinary,"Phoenix, AZ",2,"['C415', 'C520']",Attribute X; Attribute Z,Routine,Not Hispanic or Latino,Asian,Vietnamese,Phone
+R0058,Riley,Lee,04/09/1988,38,30-39,Nonbinary,"Queen Creek, AZ",3,"['C415', 'C101', 'C520']",Attribute X; Attribute Z,As Needed,Hispanic or Latino,Black or African American,Vietnamese,Text
+R0059,Reese,Carter,27/06/1983,43,40-49,Female,"Scottsdale, AZ",0,,Attribute X,Consultation,Unknown,White,Other,Email
+R0060,Quinn,Johnson,16/07/1950,76,70-79,Nonbinary,"Gilbert, AZ",1,['C415'],Attribute X; Attribute Z,As Needed,Not Hispanic or Latino,Black or African American,Mandarin,Text
+R0061,Cameron,Johnson,06/08/1985,41,40-49,Male,"Queen Creek, AZ",1,['C101'],Attribute Y,Routine,Not Hispanic or Latino,Unknown,Vietnamese,Text
+R0062,Riley,Brown,23/01/1980,46,40-49,Female,"Scottsdale, AZ",4,"['C415', 'C310', 'C205', 'C520']",Attribute X,As Needed,Hispanic or Latino,American Indian or Alaska Native,English,Email
+R0063,Taylor,Carter,17/07/1999,27,18-29,Nonbinary,"Tempe, AZ",1,['C415'],Attribute Y,Routine,Not Hispanic or Latino,White,Other,Email
+R0064,Casey,Brown,28/09/1998,27,18-29,Male,"Tempe, AZ",1,['C101'],Attribute X; Attribute Z,Routine,Not Hispanic or Latino,Unknown,Other,Email
+R0065,Jordan,Garcia,22/03/1943,83,80+,Male,"Phoenix, AZ",4,"['C101', 'C205', 'C310', 'C415']",,As Needed,Hispanic or Latino,Unknown,Vietnamese,Phone
+R0066,Quinn,Garcia,28/02/1972,54,50-59,Male,"Tempe, AZ",2,"['C415', 'C205']",Attribute X,Annual,Hispanic or Latino,White,Other,Email
+R0067,Casey,Brown,25/04/1992,34,30-39,Male,"Gilbert, AZ",1,['C205'],,As Needed,Not Hispanic or Latino,Unknown,Other,Phone
+R0068,Cameron,Garcia,02/11/1966,59,50-59,Male,"Phoenix, AZ",3,"['C310', 'C415', 'C205']",Attribute X,As Needed,Unknown,Asian,Other,Email
+R0069,Parker,Wilson,05/07/1975,51,50-59,Male,"Queen Creek, AZ",2,"['C101', 'C520']",Attribute X,Consultation,Hispanic or Latino,Unknown,Spanish,Text
+R0070,Casey,Carter,08/04/1952,74,70-79,Male,"Phoenix, AZ",0,,Attribute Y,Annual,Hispanic or Latino,Asian,Vietnamese,Text
+R0071,Casey,Patel,23/05/1988,38,30-39,Male,"Queen Creek, AZ",2,"['C520', 'C310']",Attribute Y,Consultation,Hispanic or Latino,American Indian or Alaska Native,English,Phone
+R0072,Casey,Carter,31/12/1989,36,30-39,Nonbinary,"Phoenix, AZ",2,"['C101', 'C415']",Attribute X; Attribute Z,Consultation,Unknown,Unknown,Vietnamese,Text
+R0073,Reese,Carter,17/07/2000,26,18-29,Nonbinary,"Gilbert, AZ",1,['C415'],Attribute X,Routine,Unknown,American Indian or Alaska Native,Vietnamese,Text
+R0074,Morgan,Nguyen,04/05/1943,83,80+,Nonbinary,"Mesa, AZ",2,"['C415', 'C101']",Attribute X; Attribute Z,As Needed,Not Hispanic or Latino,Unknown,Other,Email
+R0075,Reese,Brown,03/10/1998,27,18-29,Male,"Gilbert, AZ",0,,,Consultation,Hispanic or Latino,American Indian or Alaska Native,Mandarin,Phone
+R0076,Morgan,Johnson,05/11/1988,37,30-39,Female,"Queen Creek, AZ",2,"['C101', 'C415']",Attribute X; Attribute Z,Routine,Unknown,Black or African American,Other,Phone
+R0077,Morgan,Lee,26/08/1990,36,30-39,Nonbinary,"Mesa, AZ",1,['C101'],Attribute X,Consultation,Hispanic or Latino,Two or More Races,English,Email
+R0078,Taylor,Carter,27/08/1955,71,70-79,Female,"Gilbert, AZ",0,,Attribute X,Consultation,Hispanic or Latino,Black or African American,Vietnamese,Phone
+R0079,Parker,Brown,13/03/1950,76,70-79,Male,"Tempe, AZ",0,,,As Needed,Unknown,Black or African American,Other,Phone
+R0080,Parker,Carter,03/02/1981,45,40-49,Male,"Chandler, AZ",0,,,As Needed,Unknown,American Indian or Alaska Native,English,Phone
+R0081,Reese,Martinez,28/04/1951,75,70-79,Nonbinary,"Gilbert, AZ",2,"['C520', 'C310']",Attribute X; Attribute Z,As Needed,Hispanic or Latino,Unknown,English,Text
+R0082,Parker,Kim,05/07/1980,46,40-49,Male,"Chandler, AZ",1,['C415'],,Consultation,Not Hispanic or Latino,Asian,Vietnamese,Email
+R0083,Cameron,Nguyen,08/03/1948,78,70-79,Female,"Scottsdale, AZ",0,,Attribute Y,Annual,Unknown,White,Other,Text
+R0084,Reese,Johnson,08/11/1976,49,40-49,Male,"Gilbert, AZ",2,"['C415', 'C101']",,Annual,Hispanic or Latino,Unknown,Mandarin,Phone
+R0085,Quinn,Martinez,22/04/1950,76,70-79,Nonbinary,"Tempe, AZ",2,"['C520', 'C205']",,Consultation,Hispanic or Latino,Black or African American,Vietnamese,Text
+R0086,Jordan,Martinez,10/04/1956,70,70-79,Female,"Scottsdale, AZ",1,['C520'],,Routine,Unknown,Two or More Races,Spanish,Email
+R0087,Taylor,Carter,13/03/1973,53,50-59,Female,"Queen Creek, AZ",2,"['C310', 'C101']",,Routine,Not Hispanic or Latino,American Indian or Alaska Native,Mandarin,Email
+R0088,Reese,Johnson,04/05/1959,67,60-69,Male,"Tempe, AZ",4,"['C101', 'C310', 'C205', 'C520']",Attribute Y,Routine,Hispanic or Latino,American Indian or Alaska Native,Other,Phone
+R0089,Riley,Johnson,03/11/2008,17,0-17,Female,"Phoenix, AZ",1,['C310'],Attribute X; Attribute Z,As Needed,Hispanic or Latino,Black or African American,Mandarin,Text
+R0090,Cameron,Carter,07/12/1999,26,18-29,Female,"Chandler, AZ",2,"['C101', 'C415']",,Consultation,Unknown,American Indian or Alaska Native,Other,Email
+R0091,Parker,Wilson,02/05/1950,76,70-79,Nonbinary,"Gilbert, AZ",3,"['C101', 'C310', 'C520']",,As Needed,Hispanic or Latino,Black or African American,Mandarin,Text
+R0092,Jordan,Patel,02/11/1967,58,50-59,Nonbinary,"Scottsdale, AZ",2,"['C205', 'C310']",,Annual,Not Hispanic or Latino,Asian,Spanish,Phone
+R0093,Reese,Brown,26/07/1955,71,70-79,Nonbinary,"Chandler, AZ",4,"['C205', 'C101', 'C415', 'C520']",Attribute Y,Consultation,Hispanic or Latino,American Indian or Alaska Native,English,Email
+R0094,Quinn,Kim,21/01/1993,33,30-39,Female,"Gilbert, AZ",0,,Attribute X; Attribute Z,As Needed,Hispanic or Latino,White,Vietnamese,Email
+R0095,Reese,Brown,18/04/1993,33,30-39,Nonbinary,"Mesa, AZ",4,"['C415', 'C520', 'C310', 'C101']",Attribute Y,As Needed,Unknown,Black or African American,English,Email
+R0096,Parker,Garcia,19/12/1997,28,18-29,Male,"Tempe, AZ",1,['C101'],Attribute X,Consultation,Not Hispanic or Latino,Asian,Mandarin,Email
+R0097,Quinn,Nguyen,06/08/1996,30,30-39,Nonbinary,"Chandler, AZ",2,"['C101', 'C310']",Attribute Y,Consultation,Unknown,Unknown,Other,Phone
+R0098,Reese,Patel,08/09/1952,74,70-79,Nonbinary,"Phoenix, AZ",2,"['C310', 'C415']",Attribute Y,As Needed,Unknown,Asian,Spanish,Text
+R0099,Casey,Kim,20/05/1948,78,70-79,Female,"Mesa, AZ",3,"['C520', 'C310', 'C101']",Attribute Y,As Needed,Hispanic or Latino,Black or African American,Spanish,Phone
+R0100,Cameron,Wilson,04/06/1988,38,30-39,Female,"Mesa, AZ",4,"['C101', 'C310', 'C415', 'C520']",Attribute X,Annual,Unknown,American Indian or Alaska Native,English,Email
