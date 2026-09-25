@@ -11,9 +11,9 @@ Hello! My name is Benjamin Andreasen. This repo is based on some consulting work
 
 I was given a data file with customer demographic information and asked to help my client understand their customer pool more in-depth.
 
-I used the pandas library in Python to extract and clean the data. In an effort to pass this off completely to my non-technical clients, I researched and used PyInstaller to make a stand-alone executable that would run the extraction and cleaning script.
+I used the pandas library in Python to extract and clean the data. In an effort to pass this off completely to my non-technical clients, I researched and used PyInstaller to make a stand-alone executable that would run the extraction and cleaning script. The company has no current cloud infrastructure and doesn't have a foreseeable need for one, so I knew this would have to be locally housed on an in-office machine. Otherwise, this could have been migrated to a Snowflake UDF or an Azure warehouse. So, the stand-alone executable was the better choice in this situation.
 
-I was very proud of this step, until I learned that my clients run exclusively on Apple products, and due to some limitations I have not yet finished researching, my setup with PyInstaller did not allow me to create a Mac executable file. I am still working on that in the back of my brain somewhere.
+I was very proud of this step, until I learned that my clients run exclusively on Apple products. Due to some limitations I have not yet finished researching, my setup with PyInstaller did not allow me to create a Mac executable file. The initial product has been delivered successfully, though, so this will be the next step in development.
 
 After the data is processed, it is passed to Power BI, where it powers a simple, yet elegant demographic dashboard. Ideally this would be migrated to an account run by the client, but I don't think that will happen anytime soon. When and if it does happen though, I can automate a refresh cycle of both the underlying data through the processing application as well as the data powering the dashboard, keeping the views fresh and current.
 
@@ -119,7 +119,7 @@ Then run:
 python src/import.py
 ```
 
-The input file included in this repository is completely synthetic and exists only to demonstrate the pipeline. Running the script against it will generate the corresponding cleaned output files.
+The input file included in this repository was randomly generated and exists only to demonstrate the pipeline. Running the script against it will generate the corresponding cleaned output files.
 
 ## Building the Standalone Application
 
@@ -135,11 +135,11 @@ This bundles the Python application and its required dependencies into a standal
 
 The executable itself is not included in this repository. The source code and build instructions are included instead so the application can be built locally.
 
-One important limitation is that PyInstaller builds are OS-specific. An executable built on Windows is a Windows application; producing a native macOS version requires building the application in a macOS environment. Cross-platform packaging is one of the areas I would like to continue developing.
+One important limitation is that PyInstaller builds are OS-specific. An executable built on Windows is a Windows application; producing a native macOS version requires building the application in a macOS environment.
 
 ## Power BI Setup
 
-The public Power BI file intentionally uses a sanitized placeholder for its local data-source path so that no personal or client file paths are included in the repository.
+The public Power BI file intentionally uses a placeholder for its local data-source path so that no personal or client file paths are included in the repository.
 
 To connect the included report locally:
 
@@ -162,7 +162,7 @@ Once the source has been updated, the included synthetic dataset can be used to 
 
 ## Data Privacy
 
-**IMPORTANT:** All data included in this repository is synthetic and was generated specifically for demonstration purposes.
+**IMPORTANT:** All data included in this repository was generated specifically for demonstration purposes.
 
 This repository contains no production data, personally identifiable information (PII), or client-identifying information. If you have any questions or concerns about this, please contact me directly.
 
